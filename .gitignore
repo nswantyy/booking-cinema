@@ -1,0 +1,10 @@
+x64/
+Debug/
+Release/
+*.obj
+*.tlog
+*.log
+*.pdb
+*.recipe
+*.ilk
+*.exe
